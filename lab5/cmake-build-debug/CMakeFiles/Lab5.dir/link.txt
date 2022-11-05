@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lab5.dir/LineParser.c.o CMakeFiles/Lab5.dir/looper.c.o CMakeFiles/Lab5.dir/MyShell.c.o CMakeFiles/Lab5.dir/procs.c.o  -o Lab5 
